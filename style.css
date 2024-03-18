@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.top-container{
+    background-color: #F5EEE6;
+
+}
+.top-yoga{
+    margin: 0px;
+}
+h1{
+    font-family: "Schoolbell", cursive;
+    font-size: 5.6rem;
+    margin: 0;
+    color: #F3D7CA;
+}
+h2{
+    font-family: "Libre Caslon Text", serif;
+    color: #F3D7CA;
+    font-size: 2.5rem;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+.intro{
+    width:100%;
+    margin: auto;
+    font-size: 1.5rem;
+    font-family: "Libre Caslon Text", serif;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted #FFF8E3 6px;
+    margin: 100px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin: 100px auto;
+    width: 50%;
+    justify-content: center;
+    align-items:center;
+    row-gap: 2rem;
+   
+}
+.Contacta {
+    padding-top: 50px;
+   
+}
+.btn{
+    background: #F3D7CA;
+    background-image: linear-gradient(to bottom, #F3D7CA, #E6A4B4);
+    border-radius: 8px;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: "Schoolbell", cursive;
+    margin: 50px;
+   
+
+}
+.bottom-container{
+    background-color: #FFF8E3;
+    padding: 50px 0 20px;
+
+
+}
+.nav-item{
+    padding-right: 0.5rem;
+}
+
